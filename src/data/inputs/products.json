@@ -1,0 +1,58 @@
+
+[
+    {
+      "type": "number",
+      "placeholder": "Enter Product Id",
+      "id": "id"
+    },
+    {
+      "type": "text",
+      "placeholder": "Enter Product Name",
+      "id": "title"
+    },
+    {
+      "type": "text",
+      "placeholder": "Enter Product Description",
+      "id": "description"
+    },
+    {
+      "type": "text",
+      "placeholder": "Enter Product Price",
+      "id": "price"
+    },
+    {
+      "type": "text",
+      "placeholder": "Enter Discount Percentage",
+      "id": "discountPercentage"
+    },
+    {
+      "type": "text",
+      "placeholder": "Enter Product Rating",
+      "id": "rating"
+    },
+    {
+      "type": "text",
+      "placeholder": "Enter Product Stock",
+      "id": "stock"
+    },
+    {
+      "type": "text",
+      "placeholder": "Enter Product Brand",
+      "id": "brand"
+    },
+    {
+      "type": "text",
+      "placeholder": "Enter Product Category",
+      "id": "category"
+    },
+    {
+      "type": "file",
+      "placeholder": "Enter Product Category",
+      "id": "images"
+    },
+    {
+      "type": "file",
+      "placeholder": "Enter Product Category",
+      "id": "thumbnail"
+    }
+  ]
